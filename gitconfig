@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ryllerpadua@users.noreply.github.com
+	name = ryllerpadua
